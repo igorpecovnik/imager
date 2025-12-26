@@ -30,8 +30,6 @@
     "authorizing": "TODO: Requesting authorization...",
     "confirmTitle": "TODO: Confirm Selection",
     "confirmText": "TODO: You are about to write to:",
-    "confirmWarning": "TODO: ALL DATA WILL BE PERMANENTLY ERASED",
-    "eraseAndFlash": "TODO: Erase & Flash",
     "dataWarning": "TODO: All data on selected device will be erased",
     "successHint": "TODO: Your SD card is ready! You can safely remove the device and insert it into your {{boardName}}.",
     "successHintCustom": "TODO: Your SD card is ready! You can safely remove the device."
