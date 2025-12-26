@@ -23,17 +23,93 @@
     "complete": "Bljesanje završeno!",
     "failed": "Dogodila se greška",
     "cancel": "Odustani",
-    "retry": "Pokušaj ponovo"
+    "retry": "Pokušaj ponovo",
+    "verifying": "TODO: Verifying written data...",
+    "done": "Gotovo",
+    "flashAnother": "Flashaj drugo",
+    "authorizing": "Tražim autorizaciju...",
+    "confirmTitle": "Potvrdi Odabir",
+    "confirmText": "Spremni ste zapisati na:",
+    "confirmWarning": "SVI PODACI ĆE BITI TRAJNO IZBRISANI",
+    "eraseAndFlash": "Izbriši i Flash",
+    "dataWarning": "Svi podaci na odabranom uređaju bit će izbrisani.",
+    "successHint": "Vaša SD kartica je spremna! Možete sigurno ukloniti uređaj i umetnuti ga u vaš {{{boardName}}}.",
+    "successHintCustom": "Vaša SD kartica je spremna! Možete sigurno ukloniti uređaj."
   },
   "modal": {
     "selectManufacturer": "Odaberi proizvođača",
     "selectBoard": "Odaberi ploču",
     "searchManufacturer": "Pretraži proizvođače...",
-    "searchBoard": "Pretraži ploče..."
+    "searchBoard": "Pretraži ploče...",
+    "selectImage": "Odaberite Operativni Sustav",
+    "selectDevice": "Odaberite uređaj za pohranu",
+    "noManufacturers": "Nema pronađenih proizvođača",
+    "noBoards": "Nema pronađenih boardova",
+    "noImages": "Nema pronađenih slika",
+    "noDevices": "Nema pronađenih uređaja",
+    "promoted": "Preporučeno",
+    "stable": "Stabilno",
+    "nightly": "Noćna verzija",
+    "apps": "Aplikacije",
+    "minimal": "Minimalno",
+    "allImages": "Sve slike",
+    "scanningDevices": "Skeniranje uređaja...",
+    "insertDevice": "Umetnite SD karticu ili USB uređaj",
+    "refreshDevices": "Osvježi Uređaje"
   },
   "device": {
     "system": "Sustav",
     "sdCard": "SD kartica",
-    "usb": "USB"
+    "usb": "USB",
+    "sata": "SATA",
+    "sas": "SAS",
+    "nvme": "NVMe",
+    "refresh": "Osvježi"
+  },
+  "header": {
+    "stepManufacturer": "Proizvođač",
+    "stepBoard": "Odbor",
+    "stepOs": "OS",
+    "stepStorage": "Pohrana",
+    "stepImage": "Slika",
+    "resetTooltip": "Ponovno započnite",
+    "stepTooltip": "Promijeni {{{step}}}"
+  },
+  "errorDisplay": {
+    "retry": "Pokušajte ponovo",
+    "uploadLogs": "Učitaj dnevnike",
+    "uploading": "Učitavanje...",
+    "uploadingLogs": "Učitavanje logova...",
+    "uploadLogsForSupport": "Otpremi dnevnike za podršku",
+    "viewLogs": "Pogledaj dnevnike",
+    "scanQrOrShare": "Skenirajte QR ili podijelite ovu poveznicu:"
+  },
+  "error": {
+    "downloadFailed": "Preuzimanje nije uspjelo",
+    "flashFailed": "Flash nije uspio",
+    "authFailed": "Autorizacija nije uspjela",
+    "authCancelled": "Autorizacija otkazana od strane korisnika",
+    "decompressionFailed": "Dekompresija nije uspjela",
+    "uploadFailed": "Učitavanje nije uspjelo",
+    "deviceDisconnected": "Uređaj je isključen"
+  },
+  "custom": {
+    "customImage": "Prilagođena slika"
+  },
+  "common": {
+    "unknown": "Nepoznato"
+  },
+  "update": {
+    "title": "Ažuriranje dostupno",
+    "later": "Kasnije",
+    "downloading": "Preuzimanje ažuriranja...",
+    "ready": "Ažuriranje Spremno",
+    "error": "Ažuriranje nije uspjelo",
+    "installNow": "Instaliraj sada",
+    "restartNow": "Ponovno pokreni sada",
+    "cancel": "Otkaži",
+    "retry": "Pokušaj ponovo",
+    "readyMessage": "Ažuriranje je preuzeto. Ponovno pokrenite aplikaciju kako biste dovršili instalaciju.",
+    "errorMessage": "Preuzimanje ažuriranja nije uspjelo. Pokušajte ponovo kasnije."
   }
 }
