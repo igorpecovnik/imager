@@ -32,7 +32,9 @@
     "confirmText": "TODO: You are about to write to:",
     "dataWarning": "TODO: All data on selected device will be erased",
     "successHint": "TODO: Your SD card is ready! You can safely remove the device and insert it into your {{boardName}}.",
-    "successHintCustom": "TODO: Your SD card is ready! You can safely remove the device."
+    "successHintCustom": "TODO: Your SD card is ready! You can safely remove the device.",
+    "confirmWarning": "SVI PODACI ĆE BITI TRAJNO IZBRISANI",
+    "eraseAndFlash": "Izbriši i Flash"
   },
   "modal": {
     "selectManufacturer": "Odaberi proizvođača",
