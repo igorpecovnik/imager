@@ -33,7 +33,8 @@
     "eraseAndFlash": "Izbriši i Flash",
     "dataWarning": "Svi podaci na odabranom uređaju bit će izbrisani.",
     "successHint": "Vaša SD kartica je spremna! Možete sigurno ukloniti uređaj i umetnuti ga u vaš {{{boardName}}}.",
-    "successHintCustom": "Vaša SD kartica je spremna! Možete sigurno ukloniti uređaj."
+    "successHintCustom": "Vaša SD kartica je spremna! Možete sigurno ukloniti uređaj.",
+    "verifying": "Provjera napisanih podataka..."
   },
   "modal": {
     "selectManufacturer": "Odaberi proizvođača",
