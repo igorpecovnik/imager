@@ -64,7 +64,9 @@
     "sata": "TODO: SATA",
     "sas": "TODO: SAS",
     "nvme": "TODO: NVMe",
-    "refresh": "TODO: Refresh"
+    "refresh": "TODO: Refresh",
+    "showSystemDevices": "TODO: Show system drives",
+    "hideSystemDevices": "TODO: Hide system drives"
   },
   "header": {
     "stepManufacturer": "TODO: Manufacturer",
@@ -97,7 +99,8 @@
     "customImage": "TODO: Custom Image"
   },
   "common": {
-    "unknown": "TODO: Unknown"
+    "unknown": "TODO: Unknown",
+    "confirm": "TODO: Confirm"
   },
   "update": {
     "title": "TODO: Update Available",
@@ -110,6 +113,13 @@
     "cancel": "TODO: Cancel",
     "retry": "TODO: Retry",
     "readyMessage": "TODO: The update has been downloaded. Restart the application to complete the installation.",
-    "errorMessage": "TODO: Failed to download the update. Please try again later."
+    "errorMessage": "TODO: Failed to download the update. Please try again later.",
+    "changelogTitle": "TODO: What's New",
+    "viewChangelog": "TODO: What's New",
+    "loadingChangelog": "TODO: Loading changelog...",
+    "noChangelog": "TODO: No changelog available",
+    "viewOnGitHub": "TODO: View on GitHub",
+    "contributors": "TODO: Contributors",
+    "changelogErrorHint": "TODO: Make sure you have an internet connection and the version exists on GitHub."
   }
 }
